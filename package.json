@@ -1,0 +1,26 @@
+{
+  "name": "hyper-toggle-transparency",
+  "version": "0.1.0",
+  "description": "Toggle transparency of Hyper by ⌘-u/ctrl-u",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "transparency"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganow/hyper-toggle-transparency.git"
+  },
+  "author": {
+    "name": "Yoshihiro Nagano",
+    "email": "y.nagano.92@gmail.com"
+  },
+  "dependencies": {
+    "color": "^2"
+  },
+  "bugs": {
+    "url": "https://github.com/ganow/hyper-toggle-transparency/issues"
+  },
+  "homepage": "https://github.com/ganow/hyper-toggle-transparency#readme"
+}
